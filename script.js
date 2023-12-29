@@ -8,6 +8,10 @@ function ageindays() {
     document.getElementById('result').appendChild(h1);
 }
 
+function reseta() {
+    document.getElementById('age').remove();
+}
+
 function reset() {
     document.getElementById('age').remove();
 }
