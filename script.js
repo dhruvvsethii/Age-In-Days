@@ -15,3 +15,7 @@ function reseta() {
 function reset() {
     document.getElementById('age').remove();
 }
+
+function sana() {
+    
+}
