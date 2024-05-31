@@ -8,6 +8,8 @@ function ageindays() {
     document.getElementById('result').appendChild(h1);
 }
 
-function reset() {
-    document.getElementById('age').remove();
+
+//DHRUV  IS DOING THIS FUNCTION
+function hello() {
+
 }
